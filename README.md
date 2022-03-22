@@ -6,6 +6,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -40,6 +41,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖 Layout
 
 O layout foi fornecido, bem como a estrutura do projeto. Para mais detalhes, [acesse a nota criada no Notion](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1).
+
+## 📥 Instalação
+
+Faça um clone desse repositório e acesse o diretório.
+
+```bash
+# Instalando as dependências
+$ yarn
+
+# Executanto o servidor
+yarn server
+
+# Executanto aplicação
+$ yarn dev
+```
 
 ## :memo: Licença
 
