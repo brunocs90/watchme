@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="layout" src="./images/layout.gif" width="90%">
+  <img alt="layout" src="./images/layout.gif" width="100%">
 </p>
 
 <br>
